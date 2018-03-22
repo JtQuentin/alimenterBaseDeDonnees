@@ -1,0 +1,8 @@
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\bin\Debug\alimenterBaseDeDonnees.exe
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\bin\Debug\alimenterBaseDeDonnees.pdb
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.Properties.Resources.resources
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.csproj.GenerateResource.Cache
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.exe
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.pdb
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.Traitement.resources
+E:\SIO2\PPE\alimenterBaseDeDonnees\alimenterBaseDeDonnees\obj\x86\Debug\alimenterBaseDeDonnees.csprojResolveAssemblyReference.cache
